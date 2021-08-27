@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Familie Example
-themeBGimage: https://nipp.es/user/plugins/random-bg/img/bg_circles.png
+themeBGimage: https://template.pc-cdn.de/assets/bg-images/
 permalink: /sub/subdomainname/index.html
 ---
 
