@@ -5,4 +5,5 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:year/:month/:day/:title:output_ext/index.html
 themeBGimage: https://template.pc-cdn.de/content/themes/creativeily/assets/img/header.jpeg 
 impress: impressumc
+author: Familie Mestermann
 since: 2005
